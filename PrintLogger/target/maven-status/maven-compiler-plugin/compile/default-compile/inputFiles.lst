@@ -1,0 +1,9 @@
+/Users/MKT/git/print-logger/PrintLogger/src/main/java/com/jdc/mkt/PrintLogger.java
+/Users/MKT/git/print-logger/PrintLogger/src/main/java/com/jdc/mkt/inter/PrintTableByEntityListInt.java
+/Users/MKT/git/print-logger/PrintLogger/src/main/java/com/jdc/mkt/inter/PrintTableByQueryInt.java
+/Users/MKT/git/print-logger/PrintLogger/src/main/java/com/jdc/mkt/inter/PrintTableByResultSetInt.java
+/Users/MKT/git/print-logger/PrintLogger/src/main/java/com/jdc/mkt/utils/DatabaseType.java
+/Users/MKT/git/print-logger/PrintLogger/src/main/java/com/jdc/mkt/utils/anno/Connector.java
+/Users/MKT/git/print-logger/PrintLogger/src/main/java/com/jdc/mkt/utils/impls/JdbcConnectorImpl.java
+/Users/MKT/git/print-logger/PrintLogger/src/main/java/com/jdc/mkt/utils/impls/PrintTableByEntityListImpl.java
+/Users/MKT/git/print-logger/PrintLogger/src/main/java/com/jdc/mkt/utils/impls/PrintTableByQueryImpl.java
